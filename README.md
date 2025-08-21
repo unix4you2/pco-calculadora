@@ -1,4 +1,8 @@
-# Calculadora Moderna (Bootstrap 5 + JavaScript)
+# ![](https://github.com/unix4you2/practico/raw/master/img/logo.png) Calculadora Moderna
+
+Este es un proyecto derivado de [Práctico Framework](https://www.practico.org//) articulable como plugin o complemento
+
+Pruébalo en línea directamente en [Este enlace](https://calculadora.practico.run)
 
 Calculadora científica y simple, moderna y compacta, diseñada con Bootstrap 5 y JavaScript puro en modo oscuro. Permite alternar entre modo simple y modo científico, soporta el uso del teclado físico de computadora y cuenta con una interfaz responsiva y elegante.
 
